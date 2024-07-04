@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://malcovidyalaya.org/</homePageLink>
+		<homePageLink>https://malcovidyalaya.com/</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://malcovidyalaya.org/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://malcovidyalaya.org/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://malcovidyalaya.org/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://malcovidyalaya.org/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://malcovidyalaya.org/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://malcovidyalaya.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://malcovidyalaya.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://malcovidyalaya.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://malcovidyalaya.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://malcovidyalaya.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
